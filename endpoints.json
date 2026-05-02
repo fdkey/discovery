@@ -1,3 +1,3 @@
 [
-  { "host": "https://api.fdkey.com", "region": "fra", "weight": 1 }
+  { "ip": "62.238.13.184", "region": "fra", "weight": 1 }
 ]
